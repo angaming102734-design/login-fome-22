@@ -1,0 +1,33 @@
+body{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular',
+  'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: rgb(66, 151, 151);
+}
+
+.y6{
+    background-color: black;
+    height: 25px;
+    width: 80px;
+    color: aqua;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.u7{
+    cursor: pointer;
+    height: 20px;
+    width: 120px;
+    border-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top: 7px;
+}
+
+
+
+.y6:hover{
+ background-color: white;
+ background: black;
+ color: white;
+ transition: all 0.3 ease;
+}
